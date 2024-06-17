@@ -5,10 +5,14 @@
 ## 📜 About
 
 > Fast response time makes Gloo an efficient and user-friendly bot for destroying/raiding Discord Servers. Whether you're looking to `ban/kick everyone`, `spam the server` or `troll the members`, Gloo's 18 commands are designed to cover a wide range of functions, accessible either through simple text commands or convenient button interactions.
-> [Youtube]()
-> [Discord](https://discord.gg/J5Z9CZP7Ve)
-> [Bot Invite]()
-> [Store](https://lostroes.sell.app/)
+
+# 🌐 Socials
+- [Youtube](https://www.youtube.com/channel/UCNrJOMG81sdmjUSHpDC41-w)
+- [Discord](https://discord.gg/J5Z9CZP7Ve)
+- [Bot Invite](https://discord.com/oauth2/authorize?client_id=1252020642161623122&permissions=8&integration_type=0&scope=bot)
+- [Store](https://lostroes.sell.app/)
+
+
 
 ## 📸 Images
 
